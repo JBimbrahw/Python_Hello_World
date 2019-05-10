@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 def greeting():
 	name = input("Please enter your name: ")
-	print("Hello, {}.".format(name))
+	print("Yo, {}.".format(name))
 
 def main():
 	greeting()
